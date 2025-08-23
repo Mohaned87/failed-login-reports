@@ -64,3 +64,6 @@ failed-login-reports/
 <details><summary><b>10 — Harden back (keys-only)</b></summary>
 <p><img src="screenshots/10-harden-back.png" alt="restored SSH hardening (keys-only, LogLevel INFO)" /></p>
 </details>
+
+## Release
+- **v0.1.0** — first public release: [download (PDF/MD/CSV)](https://github.com/Mohaned87/failed-login-reports/releases/tag/v0.1.0)
