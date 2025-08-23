@@ -10,3 +10,11 @@ sudo journalctl -t sshd -n 2000 | \
 python3 scripts/report_auth_fail.py
 python3 scripts/export_csv.py
 ```
+
+## Structure
+failed-login-reports/
+├─ scripts/
+├─ reports/
+└─ screenshots/
+
+- Fail2ban (sshd jail), UFW allow-list, cron schedule.
