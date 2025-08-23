@@ -18,3 +18,8 @@ failed-login-reports/
 └─ screenshots/
 
 - Fail2ban (sshd jail), UFW allow-list, cron schedule.
+
+## Artifacts (2025-08-22)
+- [Markdown report](reports/failed_login_report_2025-08-22.md)
+- [CSV export](reports/failed_login_2025-08-22.csv)
+- [PDF](reports/Failed_Login_Incidents_2025-08-22.pdf)
