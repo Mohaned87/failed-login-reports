@@ -67,3 +67,5 @@ failed-login-reports/
 
 ## Release
 - **v0.1.0** — first public release: [download (PDF/MD/CSV)](https://github.com/Mohaned87/failed-login-reports/releases/tag/v0.1.0)
+
+[![Release](https://img.shields.io/badge/release-v0.1.0-blue)](https://github.com/Mohaned87/failed-login-reports/releases/tag/v0.1.0)
